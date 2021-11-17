@@ -1,0 +1,15 @@
+.container{
+  
+    background-color: rgb(188, 130, 243);
+    height: 22rem;
+    
+    border-radius: 10px  ;
+    padding: 5em;
+    font-size: large;
+    color: white;
+
+}
+.margin{
+    margin-left: 14em;
+    margin-right: 14em;
+}
